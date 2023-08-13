@@ -1,0 +1,12 @@
+.app-search {
+    margin-bottom: 10;
+}
+
+.app-search input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    box-sizing: border-box;
+    border: 1px solid grey;
+    border-radius: 20px;
+}
